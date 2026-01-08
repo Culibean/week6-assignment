@@ -36,3 +36,7 @@ User Stories
 🏹 Style the application excellently, using grid or flex and positioning.
 
 # Reflection
+
+# Resources
+
+Modulo Operator for indexing the gallery <a href="https://mimo.org/glossary/javascript/modulo-operator>"></a> and <a href="https://dev.to/ranewallin/this-simple-math-hack-lets-you-create-an-image-carousel-without-any-if-statements-5chj"></a>
