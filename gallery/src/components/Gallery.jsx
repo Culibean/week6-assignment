@@ -36,8 +36,6 @@ export default function Gallery() {
 
   return (
     <div>
-      <h1>Your Travel Gallery</h1>
-
       <LargeImage photo={currentPhoto} />
 
       <Thumbnail photos={photos} onClick={handleThumbnailClick} />

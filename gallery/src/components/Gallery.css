@@ -6,10 +6,17 @@
 }
 
 .large-image-container {
-  width: 700px;
+  width: 900px;
   height: 400px;
   margin: 20px auto;
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-top: 1rem;
 }
