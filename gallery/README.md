@@ -40,3 +40,11 @@ User Stories
 # Resources
 
 Modulo Operator for indexing the gallery <a href="https://mimo.org/glossary/javascript/modulo-operator>"></a> and <a href="https://dev.to/ranewallin/this-simple-math-hack-lets-you-create-an-image-carousel-without-any-if-statements-5chj"></a>
+
+Image Slider <a href="https://samchowdhury.medium.com/build-an-image-slider-in-react-js-with-usestate-hook-172c3e01c203
+"></a>
+
+Search Bar/Form submission:
+<a href="https://www.w3schools.com/react/react_events.asp"></a>
+<a href="https://mimo.org/glossary/react/events"></a>
+<a href= "https://www.youtube.com/watch?v=yUau8xImmK0"></a>
